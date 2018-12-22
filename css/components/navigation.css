@@ -1,0 +1,17 @@
+
+nav {
+    background-color: rgb(2,140,213);
+}
+
+nav li{
+    display: inline-block;
+    padding-bottom: 1.2rem;
+    margin: 2rem .5rem 0 .6rem;
+  }
+  
+  nav li.active {
+      border-bottom: 2px solid whitesmoke;
+      font-weight: 400;
+  } 
+
+  
