@@ -1,0 +1,11 @@
+
+header {
+    background-color: #0aa6e1;
+    position: relative;
+    box-shadow: 0 2px 10px rgba(0,0,0,0.45);
+    z-index: 4;
+}
+
+header img {
+    height: 15rem;
+}

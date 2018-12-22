@@ -1,0 +1,21 @@
+/* ==========================================================================
+   portfolio
+   ========================================================================== */
+
+   .portfolio {
+    height: auto;
+    text-align: justify;
+}
+
+.port-group {
+    display: flex;
+}
+
+@media (max-width: 800px) {
+    
+.port-group {
+    display: block;
+    border: 3px inset #0aa6e1;
+    margin: .5rem;
+}   
+}
